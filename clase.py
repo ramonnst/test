@@ -37,3 +37,5 @@ print (p1.getVarsta())
 
 print (p2.getNume())
 print (p2.getVarsta())
+
+print "Done"
